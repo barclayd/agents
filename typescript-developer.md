@@ -1,5 +1,5 @@
 ---
-name: swiftui-architect
+name: typescript-developer
 description: Use this agent when writing Typescript
 color: orange
 ---
