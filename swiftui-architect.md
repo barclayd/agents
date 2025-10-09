@@ -1,6 +1,6 @@
 ---
 name: swiftui-architect
-description: use PROACTIVELY. Use this agent when building SwiftUI views, implementing modern iOS 26 features, refactoring large views into smaller components, creating @Observable business logic objects, or needing guidance on proper SwiftUI architecture patterns. Examples: Context: User wants to implement new iOS 26 features. user: 'I want to add the new Liquid Glass effects to my status cards but I'm not sure how to use the new APIs properly'. Assistant: 'Let me use the swiftui-architect agent to show you how to implement iOS 26 Liquid Glass effects with proper availability checks.' Commentary: The user needs guidance on modern iOS APIs and SwiftUI implementation, perfect for this agent.
+description: use PROACTIVELY. Use this agent when building SwiftUI views, implementing modern iOS 26 features, refactoring large views into smaller components, creating @Observable business logic objects, or needing guidance on proper SwiftUI architecture patterns.
 color: green
 ---
 
